@@ -6,6 +6,22 @@
     <e p="C:\Users\Pooria\Documents\webstorm\crwn-clothing" t="IncludeFlat">
       <e p="node_modules\@babel\parser" t="IncludeRecursive" />
       <e p="node_modules\@babel\types" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\analytics" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\app" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\component" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\database" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\firestore" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\functions" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\installations" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\logger" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\messaging" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\performance" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\polyfill" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\remote-config" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\storage" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\util" t="IncludeRecursive" />
+      <e p="node_modules\@firebase\webchannel-wrapper" t="IncludeRecursive" />
+      <e p="node_modules\@grpc\proto-loader" t="IncludeRecursive" />
       <e p="node_modules\@jest\console" t="IncludeRecursive" />
       <e p="node_modules\@jest\fake-timers" t="IncludeRecursive" />
       <e p="node_modules\@jest\source-map" t="IncludeRecursive" />
@@ -13,6 +29,16 @@
       <e p="node_modules\@jest\types" t="IncludeRecursive" />
       <e p="node_modules\@mrmlnc\readdir-enhanced" t="IncludeRecursive" />
       <e p="node_modules\@nodelib\fs.stat" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\aspromise" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\base64" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\codegen" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\eventemitter" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\fetch" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\float" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\inquire" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\path" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\pool" t="IncludeRecursive" />
+      <e p="node_modules\@protobufjs\utf8" t="IncludeRecursive" />
       <e p="node_modules\@testing-library\jest-dom" t="IncludeRecursive" />
       <e p="node_modules\@testing-library\react" t="IncludeRecursive" />
       <e p="node_modules\@testing-library\user-event" t="IncludeRecursive" />
@@ -23,6 +49,7 @@
         <e p="events" t="IncludeRecursive" />
         <e p="istanbul-lib-coverage" t="IncludeRecursive" />
         <e p="istanbul-lib-report" t="IncludeRecursive" />
+        <e p="long" t="IncludeRecursive" />
         <e p="minimatch" t="IncludeRecursive" />
         <e p="node" t="IncludeRecursive" />
         <e p="prop-types" t="IncludeRecursive" />
@@ -40,6 +67,9 @@
       <e p="node_modules\dotenv" t="IncludeRecursive" />
       <e p="node_modules\dotenv-expand" t="IncludeRecursive" />
       <e p="node_modules\fast-glob" t="IncludeRecursive" />
+      <e p="node_modules\firebase" t="IncludeRecursive" />
+      <e p="node_modules\grpc" t="IncludeRecursive" />
+      <e p="node_modules\idb" t="IncludeRecursive" />
       <e p="node_modules\jest" t="IncludeRecursive" />
       <e p="node_modules\jest-haste-map" t="IncludeRecursive" />
       <e p="node_modules\jest-message-util" t="IncludeRecursive" />
@@ -50,12 +80,14 @@
       <e p="node_modules\jest-worker" t="IncludeRecursive" />
       <e p="node_modules\node-sass" t="IncludeRecursive" />
       <e p="node_modules\pretty-format" t="IncludeRecursive" />
+      <e p="node_modules\protobufjs" t="IncludeRecursive" />
       <e p="node_modules\react" t="IncludeRecursive" />
       <e p="node_modules\react-dom" t="IncludeRecursive" />
       <e p="node_modules\react-router-dom" t="IncludeRecursive" />
       <e p="node_modules\react-scripts" t="IncludeRecursive" />
       <e p="node_modules\realpath-native" t="IncludeRecursive" />
       <e p="node_modules\source-map" t="IncludeRecursive" />
+      <e p="node_modules\tslib" t="IncludeRecursive" />
       <e p="node_modules\upath" t="IncludeRecursive" />
       <e p="node_modules\worker-farm" t="IncludeRecursive" />
     </e>
