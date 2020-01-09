@@ -83,10 +83,15 @@
       <e p="node_modules\protobufjs" t="IncludeRecursive" />
       <e p="node_modules\react" t="IncludeRecursive" />
       <e p="node_modules\react-dom" t="IncludeRecursive" />
+      <e p="node_modules\react-redux" t="IncludeRecursive" />
       <e p="node_modules\react-router-dom" t="IncludeRecursive" />
       <e p="node_modules\react-scripts" t="IncludeRecursive" />
       <e p="node_modules\realpath-native" t="IncludeRecursive" />
+      <e p="node_modules\redux" t="IncludeRecursive" />
+      <e p="node_modules\redux-logger" t="IncludeRecursive" />
+      <e p="node_modules\rxjs" t="IncludeRecursive" />
       <e p="node_modules\source-map" t="IncludeRecursive" />
+      <e p="node_modules\symbol-observable" t="IncludeRecursive" />
       <e p="node_modules\tslib" t="IncludeRecursive" />
       <e p="node_modules\upath" t="IncludeRecursive" />
       <e p="node_modules\worker-farm" t="IncludeRecursive" />
