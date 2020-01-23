@@ -89,6 +89,7 @@
       <e p="node_modules\realpath-native" t="IncludeRecursive" />
       <e p="node_modules\redux" t="IncludeRecursive" />
       <e p="node_modules\redux-logger" t="IncludeRecursive" />
+      <e p="node_modules\redux-persist" t="IncludeRecursive" />
       <e p="node_modules\reselect" t="IncludeRecursive" />
       <e p="node_modules\rxjs" t="IncludeRecursive" />
       <e p="node_modules\source-map" t="IncludeRecursive" />
